@@ -30,6 +30,9 @@ jobs:
             vers: '6.5.3'
             arch: 'win64_msvc2019_64'
           - os: windows-2022
+            vers: '6.7.2'
+            arch: 'win64_msvc2019_64'
+          - os: windows-2022
             vers: '6.5.3'
             arch: 'win64_msvc2019_arm64'
             buildArch: 'Arm64'
